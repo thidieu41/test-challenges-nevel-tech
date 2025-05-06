@@ -1,0 +1,16 @@
+/* SwiperStyles.css */
+.swiper-pagination-bullet {
+    display: inline-block;
+    width: 20px; /* Chiều dài dấu gạch */
+    height: 4px; /* Độ dày của dấu gạch */
+    background: #bbb;
+    opacity: 1;
+    margin: 0 6px !important;
+    border-radius: 2px; /* Bo nhẹ cho mềm mại */
+    transition: background-color 0.3s;
+  }
+  
+  .swiper-pagination-bullet-active {
+    background: #1976d2; /* Màu khi đang active */
+  }
+  
