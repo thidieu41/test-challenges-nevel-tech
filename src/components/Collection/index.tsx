@@ -76,7 +76,7 @@ const NewCollection = () => {
           768: {
             slidesPerView: 4,
           },
-          1600: {
+          1100: {
             slidesPerView: 5,
           },
         }}
