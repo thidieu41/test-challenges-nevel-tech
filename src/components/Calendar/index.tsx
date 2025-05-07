@@ -1,9 +1,9 @@
-import { Box, Button, Grid, Stack, Typography } from "@mui/material";
+import { Box, Button, Grid, Stack } from "@mui/material";
 import { useRef } from "react";
 import { btnStyle } from "../Collection";
 import { ContainerStyled, TitleStyled } from "../styledComp";
 import { Swiper, SwiperSlide } from "swiper/react";
-import { Navigation, Pagination } from "swiper/modules";
+import { Navigation } from "swiper/modules";
 
 const imgList = [
   "images/calendar/calendar1.svg",

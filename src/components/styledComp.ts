@@ -7,7 +7,8 @@ export const TitleStyled = styled(Typography)({
   fontSize: "32px !important",
   textTransform: "uppercase",
   fontStyle: "italic",
-  "@media (max-width: 768px)": {
+  whiteSpace:'nowrap',
+  "@media (max-width: 1440px)": {
     fontSize: "24px !important",
   },
 
@@ -21,6 +22,13 @@ export const ContainerStyled = styled(Box)({
   paddingRight: 240,
   marginTop: 80,
   marginBottom: 80,
+
+  "@media (max-width: 1440px)": {
+    paddingLeft: 140,
+    paddingRight: 140,
+    marginTop: 50,
+    marginBottom: 50,
+  },
 
   "@media (max-width: 1024px)": {
     paddingLeft: 50,

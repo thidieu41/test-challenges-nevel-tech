@@ -1,9 +1,8 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import {
   AppBar,
   Toolbar,
   IconButton,
-  Typography,
   Drawer,
   List,
   ListItem,
@@ -24,7 +23,6 @@ const HeaderMobile = () => {
     setOpen(open);
   };
 
-  const menuItems = ["Home", "About", "Services", "Contact"];
 
   return (
     <Box

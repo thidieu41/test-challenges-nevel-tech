@@ -1,6 +1,5 @@
-import { Box, Button, Stack, Typography } from "@mui/material";
+import {  Button, Stack } from "@mui/material";
 import { useRef } from "react";
-import styled from "styled-components";
 import { Navigation } from "swiper/modules";
 import { SwiperSlide, Swiper } from "swiper/react";
 import {
@@ -77,7 +76,7 @@ const NewCollection = () => {
           768: {
             slidesPerView: 4,
           },
-          1024: {
+          1600: {
             slidesPerView: 5,
           },
         }}
