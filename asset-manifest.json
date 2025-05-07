@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/test-challenges-nevel-tech/static/css/main.71e1aee1.css",
-    "main.js": "/test-challenges-nevel-tech/static/js/main.cd14e005.js",
+    "main.js": "/test-challenges-nevel-tech/static/js/main.26162cb5.js",
     "static/js/453.ed33a0c3.chunk.js": "/test-challenges-nevel-tech/static/js/453.ed33a0c3.chunk.js",
     "index.html": "/test-challenges-nevel-tech/index.html",
     "main.71e1aee1.css.map": "/test-challenges-nevel-tech/static/css/main.71e1aee1.css.map",
-    "main.cd14e005.js.map": "/test-challenges-nevel-tech/static/js/main.cd14e005.js.map",
+    "main.26162cb5.js.map": "/test-challenges-nevel-tech/static/js/main.26162cb5.js.map",
     "453.ed33a0c3.chunk.js.map": "/test-challenges-nevel-tech/static/js/453.ed33a0c3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.71e1aee1.css",
-    "static/js/main.cd14e005.js"
+    "static/js/main.26162cb5.js"
   ]
 }
